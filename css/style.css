@@ -1,0 +1,26 @@
+*{margin:0;padding:0;}
+body{background-color:#dbe5e6;}
+
+.one{
+    width: 49%;
+	margin:auto;
+}
+.one ul{
+list-style:none;
+}
+.one ul li{
+display:inline-block;
+}
+.one ul li a{
+background:silder;
+color:#fff;
+padding:30px 40px;
+font-size:40px;
+text-decoration:none;
+display:block;
+}
+.one ul li a:hover{
+background:yellow;
+color:black;
+border-radius:11px;
+}
